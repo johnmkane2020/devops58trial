@@ -182,6 +182,17 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>Geo__c</fullName>
+        <externalId>false</externalId>
+        <label>Geo</label>
+        <length>20</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>IqScore</fullName>
         <trackTrending>false</trackTrending>
     </fields>
