@@ -10401,6 +10401,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Opportunity.EH__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Opportunity.ExpectedRevenue</field>
         <readable>false</readable>
@@ -10408,6 +10413,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Opportunity.Geo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Opportunity.Grade__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
